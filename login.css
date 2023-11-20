@@ -26,12 +26,11 @@ form{
     height: 80vh;
 }
 
-.smile{
+#smile{
     display: flex;
     justify-content: center;
     text-align:center;
-    font-size: 55px;
-    margin-top: 60px;  
+    font-size: 40%;
 }
 
 form h2{
@@ -114,12 +113,12 @@ form a{
     position: relative;
 }
 
-.fa-lock{
+#lock{
     padding-top: 2px;
     padding-right: 5px;
     position: absolute;
-    left: 592px;
-    top: 68%;
+    left: 38%;
+    top: 61%;
 }
 
 #check{
